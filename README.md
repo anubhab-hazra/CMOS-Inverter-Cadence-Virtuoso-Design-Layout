@@ -23,6 +23,8 @@ Transistor-level CMOS inverter design with Layout XL verification and transient 
 - Layout XL (DRC / LVS)
 - ADE / Spectre (transient simulation, PEX)
 
+--- 
+
 🔧 What’s included
 - Schematic cell view of the CMOS inverter
 - Generated symbol for hierarchical use
